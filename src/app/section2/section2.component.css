@@ -1,0 +1,13 @@
+.row{
+    height: 50vh;
+    background-color: white; 
+    margin-top: 40px;
+    font-size: 13px;
+    padding: 40px;
+}
+span{
+    line-height: 30px;
+}
+a {
+    text-decoration: none;
+}

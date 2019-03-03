@@ -1,0 +1,33 @@
+.fila {
+    background-color: #FFF159;
+}
+
+*:focus { outline: 0 !important; } 
+
+.fila input{   
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0;
+    border-radius: 0px;
+    border: 1px solid  #FFF159;
+}
+
+.logo img{
+    padding-top: 11px;
+}
+
+.promo{
+    padding-top: 6px;
+    padding-left: 10%;
+    padding-right: 5%;
+
+}
+
+.icon{
+    float: right;
+    margin-right: 10px;
+    margin-top: -35px;
+    position: relative;
+    z-index: 2;
+    color: grey;
+}

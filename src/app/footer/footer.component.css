@@ -1,0 +1,19 @@
+span{
+    padding: 10px;
+    font-size: 12px;
+}
+
+.row{
+    background-color: white;
+    padding: 10px;
+}
+
+.descarga {
+    background-color: yellow;
+    border-radius: 5px;
+}
+
+.col-sm-3{
+    font-size: 10px;
+
+}
